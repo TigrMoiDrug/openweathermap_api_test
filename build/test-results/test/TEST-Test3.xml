@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test3" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-07-22T08:57:16" hostname="ДМИТРИЙ-ПК" time="44.314">
+  <properties/>
+  <testcase name="feelsLikeLessThanThirtyFive(String)[1]" classname="Test3" time="8.69"/>
+  <testcase name="feelsLikeLessThanThirtyFive(String)[2]" classname="Test3" time="7.055"/>
+  <testcase name="feelsLikeLessThanThirtyFive(String)[3]" classname="Test3" time="6.996"/>
+  <testcase name="feelsLikeLessThanThirtyFive(String)[4]" classname="Test3" time="7.491"/>
+  <testcase name="feelsLikeLessThanThirtyFive(String)[5]" classname="Test3" time="7.061"/>
+  <testcase name="feelsLikeLessThanThirtyFive(String)[6]" classname="Test3" time="6.977"/>
+  <system-out><![CDATA[200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
